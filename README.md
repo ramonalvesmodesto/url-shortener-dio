@@ -12,5 +12,4 @@ Os usuários devem ser capazes de:
 
 - TypeScript
 - NodeJS
-- Redux
 - Express
