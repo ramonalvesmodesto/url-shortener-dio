@@ -10,7 +10,7 @@ Os usuários devem ser capazes de:
 
 ### Linguagens e tecnologias utilizadas 
 
-- JavaScript
+- TypeScript
 - NodeJS
 - Redux
 - Express
